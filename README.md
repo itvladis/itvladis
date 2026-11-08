@@ -1,13 +1,5 @@
 # Vladislav Volf
 
-<p align="center"><sub><em>
-High school student from Samara, Russia.<br />
-I like turning everyday problems into small, reliable tools, solving olympiad problems,<br />
-and I plan to study Computer Science in the US.
-</em></sub></p>
-
----
-
 ## Now
 
 school<br>
