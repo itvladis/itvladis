@@ -74,6 +74,11 @@ research<br>
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itvladis&theme=dark&hide_border=true&background=0D1117">
+  <img src="https://streak-stats.demolab.com/?user=itvladis&hide_border=true" alt="GitHub streak stats">
+</picture>
+
 ## Contact
 
 [vvolf4709@gmail.com](mailto:vvolf4709@gmail.com) · [ORCID 0009-0004-4619-4653](https://orcid.org/0009-0004-4619-4653)
