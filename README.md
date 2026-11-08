@@ -12,7 +12,6 @@ building<br>
 
 competitive programming<br>
 ﹂**191 problems** solved on acmp.ru · [solutions](https://github.com/itvladis/ACMP-solutions)<br>
-﹂**Codeforces**: 26th place in Round 1131 (Div. 3)<br>
 ﹂**USACO**: 2026–27 season<br>
 
 research<br>
@@ -38,13 +37,7 @@ research<br>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/itvladis/uptime-monitor"><b>uptime-monitor</b></a><br />
-      <sub>Watches my clients' websites and sends a Telegram alert when one goes down</sub><br />
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=monitoring%20%7C%20async&labelColor=22c55e&color=111827" alt="focus monitoring async" /><br />
-      <img src="https://img.shields.io/static/v1?style=flat-square&label=built%20with&message=Python%20%C2%B7%20asyncio%20%C2%B7%20Docker&color=3776ab" alt="built with Python, asyncio, Docker" />
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <a href="https://github.com/itvladis/ACMP-solutions"><b>ACMP-solutions</b></a><br />
       <sub>My solutions to olympiad problems from acmp.ru, one folder per problem</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=algorithms%20%7C%20olympiad&labelColor=f59e0b&color=111827" alt="focus algorithms olympiad" /><br />
@@ -61,8 +54,7 @@ research<br>
 |---|---|
 | **Shipped a Telegram app end to end** | [couple-habit](https://github.com/itvladis/couple-habit): Figma design, React Mini App, bot, API and deploy on Yandex Cloud |
 | **A site people use** | [plenka-pics.ru](https://plenka-pics.ru): photo and video sharing without sign-up, EXIF stripped, videos converted to play everywhere |
-| **Tools for my freelance work** | [uptime-monitor](https://github.com/itvladis/uptime-monitor): checks client sites concurrently and alerts once per incident, with CI and Docker |
-| **Competitive programming** | 191 problems on acmp.ru · 26th in Codeforces Round 1131 (Div. 3) · USACO 2026–27 |
+| **Competitive programming** | 191 problems on acmp.ru · USACO 2026–27 |
 
 ---
 
