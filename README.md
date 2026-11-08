@@ -70,14 +70,15 @@ research<br>
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itvladis&theme=dark&hide_border=true&background=0D1117">
-  <img src="https://streak-stats.demolab.com/?user=itvladis&hide_border=true" alt="GitHub streak stats">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itvladis&theme=dark&hide_border=true&background=0D1117">
+    <img src="https://streak-stats.demolab.com/?user=itvladis&hide_border=true" alt="GitHub streak stats">
+  </picture>
+</p>
 
 ## Contact
 
