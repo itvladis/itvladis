@@ -4,7 +4,6 @@
 
 school<br>
 ﹂**Samara International Aerospace Lyceum**, class of 2027<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂planning to study Computer Science in the US<br>
 
 building<br>
 ﹂**[couple-habit](https://github.com/itvladis/couple-habit)**: a Telegram bot and Mini App for keeping habits together with friends<br>
@@ -18,35 +17,6 @@ competitive programming<br>
 
 research<br>
 ﹂working on research papers in computer science · [ORCID](https://orcid.org/0009-0004-4619-4653)<br>
-
----
-
-## Featured: couple-habit
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/itvladis/couple-habit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itvladis/couple-habit/main/docs/screenshots/home-dark.png"><img width="100%" src="https://raw.githubusercontent.com/itvladis/couple-habit/main/docs/screenshots/home-light.png" alt="couple-habit home screen" /></picture></a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/itvladis/couple-habit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itvladis/couple-habit/main/docs/screenshots/habit-dark.png"><img width="100%" src="https://raw.githubusercontent.com/itvladis/couple-habit/main/docs/screenshots/habit-light.png" alt="couple-habit habit screen with a heatmap" /></picture></a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/itvladis/couple-habit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itvladis/couple-habit/main/docs/screenshots/feed-dark.png"><img width="100%" src="https://raw.githubusercontent.com/itvladis/couple-habit/main/docs/screenshots/feed-light.png" alt="couple-habit friends feed" /></picture></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Shared habits</b><br />streaks and quick check-ins</td>
-    <td align="center"><b>Habit page</b><br />stats and a half-year heatmap</td>
-    <td align="center"><b>Feed</b><br />what friends checked today</td>
-  </tr>
-</table>
-
-A habit tracker that lives inside Telegram, designed in Figma and built from scratch: React Mini App, bot, REST API and a one-command deploy.
-
-- Telegram and Russian data centers can't reach each other, so only the bot's traffic goes through a small Cloudflare Worker. The app and the data stay in Yandex Cloud, close to the users.
-- All data is one JSON file saved with conditional writes, so two people checking in at the same moment never overwrite each other.
-- 260+ tests, including one that caught a bundling bug which silently broke every message the bot sent.
 
 ---
 
